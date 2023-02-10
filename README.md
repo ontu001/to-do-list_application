@@ -1,1 +1,1 @@
-"# to-do-list_application" 
+The to-do list is stored as a list of dictionaries, where each dictionary represents a task with its name and completion status. The application allows the user to add tasks, complete tasks, and view the tasks. The main menu of the application is implemented as an infinite loop that continues until the user quits the application
